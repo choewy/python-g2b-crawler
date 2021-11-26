@@ -63,9 +63,25 @@ self.process = subprocess.Popen(
 
 ---
 
-## 2021-11-26
+## 2021-11-24
 
-- 버전 : 1.0.4
+- 종속성 이슈 해결(참고: [stackoverflow](https://stackoverflow.com/questions/68118223/import-error-when-using-pandas-for-fsspec-in-python))
+
+- querySelector 사용 불가능 이슈 해결 (원인 : chromedriver 최신버전 설치)
+
+```commandline
+Missing optional dependency 'fsspec'. Use pip or conda to install fsspec.
+```
+
+```commandline
+$ pip3.7 install fsspec
+$ pip3.7 install tox tox-conda
+```
+
+---
+
+## 2021-11-25
+
 - 조달청 SSL 적용으로 인한 프로토콜 변경 (기존 : http => 변경 : https)
 - webdriver-manager 모듈 설치 및 적용 (최신 버전 자동 업데이트)
 
@@ -74,7 +90,10 @@ $ pip3.7 install webdriver-manager
 ```
 
 ```python
+from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
+
+options = webdriver.ChromeOptions()
 
 '''
 driver = webdriver.Chrome(
@@ -85,5 +104,27 @@ driver = webdriver.Chrome(
 '''
 
 # 크롬 드라이버 관리자 : 2021-11-26
-driver = webdriver.Chrome(ChromeDriverManager().install())
+driver = webdriver.Chrome(
+    ChromeDriverManager().install(),
+    options=options,
+    service_args=["hide_console"]
+)
 ```
+
+---
+
+## 2021-11-26
+
+- 버전 : 1.0.4(`/json`, `/images/` 폴더 포함시켜야 함)
+- `pyinstaller` 빌드 후 엑셀 파일을 출력하는 부분에서 의존성 이슈 발생
+
+```commandline
+missing optional dependency 'fsspec'...
+```
+
+- 빌드 시 `hidden-import`를 해줌으로써 해결 가능
+
+```commandline
+$ pyinstaller --hidden-import fsspec -w --icon=images/icon.ico crawler.py
+```
+

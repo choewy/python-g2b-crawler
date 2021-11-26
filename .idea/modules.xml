@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/crwaler.iml" filepath="$PROJECT_DIR$/.idea/crwaler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/python-g2b-crawler.iml" filepath="$PROJECT_DIR$/.idea/python-g2b-crawler.iml" />
     </modules>
   </component>
 </project>

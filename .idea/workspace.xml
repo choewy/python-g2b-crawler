@@ -1,144 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f386fe93-1e21-4df9-b802-05484d950947" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../01_talok/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_talok/.idea/M-Power-master.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_talok/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_talok/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_talok/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_talok/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_talok/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_talok/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_talok/app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_talok/images/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_talok/modules.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_talok/public/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_talok/public/central.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_talok/public/components/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_talok/public/components/auth.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_talok/public/components/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_talok/public/window.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_talok/src/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_talok/src/modules.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_talok/src/style.qss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_talok/src/widget/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_talok/src/widget/output.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_talok/src/widget/target.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_pdf_tools/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_pdf_tools/.idea/Image-to-PDF.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_pdf_tools/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_pdf_tools/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_pdf_tools/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_pdf_tools/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_pdf_tools/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_pdf_tools/README.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_pdf_tools/app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_pdf_tools/images/Icon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_pdf_tools/images/Icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_pdf_tools/modules.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_pdf_tools/public/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_pdf_tools/public/central.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_pdf_tools/public/components/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_pdf_tools/public/components/converter.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_pdf_tools/public/components/merger.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_pdf_tools/public/window.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_pdf_tools/src/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_pdf_tools/src/modules.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_pdf_tools/src/style.qss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_pdf_tools/src/widget/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_pdf_tools/src/widget/merge.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_pdf_tools/src/widget/output.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_pdf_tools/src/widget/single.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_pdf_tools/src/widget/target.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03_crawler/.idea/crwaler.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03_crawler/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03_crawler/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03_crawler/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03_crawler/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03_crawler/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03_crawler/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03_crawler/crawler.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03_crawler/driver/chromedriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03_crawler/images/Loading_0.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03_crawler/images/Loading_0_origin.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03_crawler/images/Loading_0_size_50.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03_crawler/images/Loading_1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03_crawler/images/Loading_2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03_crawler/images/Loading_3.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03_crawler/images/Loading_4.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03_crawler/images/Loading_5.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03_crawler/images/Loading_6.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03_crawler/images/Loading_7.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03_crawler/images/Main_0.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03_crawler/images/icon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03_crawler/images/icon_0.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03_crawler/images/icon_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03_crawler/images/icon_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03_crawler/json/except_keywords.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03_crawler/json/search_keywords.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03_crawler/src/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03_crawler/src/json.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03_crawler/src/threading.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03_crawler/src/ui/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03_crawler/src/ui/exceptKeyword.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03_crawler/src/ui/mainWidget.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03_crawler/src/ui/message.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03_crawler/src/ui/searchKeyword.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03_crawler/src/ui/subWidget.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03_crawler/src/ui/tabWidget.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03_crawler/src/ui/window.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04_max_cfast/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04_max_cfast/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04_max_cfast/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04_max_cfast/.idea/max-CFAST.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04_max_cfast/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04_max_cfast/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04_max_cfast/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04_max_cfast/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04_max_cfast/app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04_max_cfast/src/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04_max_cfast/src/widget.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../04_max_cfast/src/window.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp_firesafety_scheduler/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp_firesafety_scheduler/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp_firesafety_scheduler/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp_firesafety_scheduler/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp_firesafety_scheduler/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp_firesafety_scheduler/.idea/temp_firesafety_scheduler.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp_firesafety_scheduler/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp_firesafety_scheduler/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp_firesafety_scheduler/app-build-version.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp_firesafety_scheduler/app-dev-version.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp_firesafety_scheduler/dump/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp_firesafety_scheduler/images/Icon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp_firesafety_scheduler/images/Icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp_firesafety_scheduler/images/login-id.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp_firesafety_scheduler/images/login-pwd.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp_firesafety_scheduler/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp_firesafety_scheduler/images/menu.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp_firesafety_scheduler/modules.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp_firesafety_scheduler/public/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp_firesafety_scheduler/public/central.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp_firesafety_scheduler/public/components/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp_firesafety_scheduler/public/components/authForm.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp_firesafety_scheduler/public/components/mainForm.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp_firesafety_scheduler/public/window.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp_firesafety_scheduler/src/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp_firesafety_scheduler/src/dialog/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp_firesafety_scheduler/src/dialog/question.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp_firesafety_scheduler/src/firebase/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp_firesafety_scheduler/src/firebase/privacy_key.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp_firesafety_scheduler/src/firebase/realtimedb.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp_firesafety_scheduler/src/modules.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp_firesafety_scheduler/src/style.qss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp_firesafety_scheduler/src/widget/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp_firesafety_scheduler/src/widget/header.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp_firesafety_scheduler/src/widget/navbar.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp_firesafety_scheduler/src/widget/totalUser.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp_firesafety_scheduler/src/widget/totalYear.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp_firesafety_scheduler/src/widget/user.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../temp_firesafety_scheduler/temp/client.json" beforeDir="false" />
+    <list default="true" id="2abd7180-9137-480c-a6c0-7abfa75ad226" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/python-g2b-crawler.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/crwaler.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/json/search_keywords.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/search_keywords.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/mainWidget.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/mainWidget.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ui/subWidget.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/subWidget.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,10 +20,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1pV5KIoyA66Wi2caSBa5bOeRvYk" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="21SEBfyisommvOaBcAzZ2wa0IuR" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -157,16 +30,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\05. Github\crwaler\venv" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Python.crawler">
+  <component name="RunManager">
     <configuration name="crawler" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="crwaler" />
+      <module name="python-g2b-crawler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -186,64 +54,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mainWidget" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="crwaler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ui" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ui/mainWidget.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="subWidget" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="crwaler" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ui" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ui/subWidget.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.crawler" />
-        <item itemvalue="Python.subWidget" />
-        <item itemvalue="Python.mainWidget" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f386fe93-1e21-4df9-b802-05484d950947" name="Default Changelist" comment="" />
-      <created>1615255351826</created>
+      <changelist id="2abd7180-9137-480c-a6c0-7abfa75ad226" name="Default Changelist" comment="" />
+      <created>1637925957437</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1615255351826</updated>
+      <updated>1637925957437</updated>
     </task>
     <servers />
   </component>

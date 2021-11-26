@@ -58,7 +58,11 @@ def crawling(browser, taskTypes, dateFrom, dateTo):
         """
 
         # 크롬 드라이버 관리자 : 2021-11-26
-        driver = webdriver.Chrome(ChromeDriverManager().install())
+        driver = webdriver.Chrome(
+            ChromeDriverManager().install(),
+            options=options,
+            service_args=["hide_console"]
+        )
         driver.get(url=url)
 
         for task_type in taskTypes:
