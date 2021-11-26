@@ -3,6 +3,7 @@ import pandas as pd
 from datetime import date
 from selenium import webdriver
 from selenium.webdriver.support.ui import Select
+from webdriver_manager.chrome import ChromeDriverManager
 from src.threading import Threading
 from PyQt5.QtCore import QDate, Qt
 from PyQt5.QtGui import QMovie
@@ -49,7 +50,7 @@ def crawling(browser, taskTypes, searchType, dateFrom, dateTo):
         search_keywords = json.get_search_keywords()
         except_keywords = json.get_except_keywords()
 
-        url = "http://www.g2b.go.kr:8101/ep/tbid/tbidFwd.do"
+        url = "https://www.g2b.go.kr:8101/ep/tbid/tbidFwd.do"
 
         options = webdriver.ChromeOptions()
 
@@ -58,11 +59,16 @@ def crawling(browser, taskTypes, searchType, dateFrom, dateTo):
             options.add_argument("headless")
         options.add_argument("window-size=1920x1080")
 
+        '''
         driver = webdriver.Chrome(
             executable_path="driver/chromedriver.exe",
             options=options,
             service_args=["hide_console"]
         )
+        '''
+
+        # 크롬 드라이버 관리자 : 2021-11-26
+        driver = webdriver.Chrome(ChromeDriverManager().install())
         driver.get(url=url)
 
         for task_type in taskTypes:
