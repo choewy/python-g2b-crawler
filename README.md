@@ -115,16 +115,15 @@ driver = webdriver.Chrome(
 
 ## 2021-11-26
 
-- 버전 : 1.0.4(`/json`, `/images/` 폴더 포함시켜야 함)
+- 버전 : 1.0.4 | [다운로드](https://github.com/choewy/python-g2b-crawler/raw/master/crawler-1.0.4.zip)
 - `pyinstaller` 빌드 후 엑셀 파일을 출력하는 부분에서 의존성 이슈 발생
 
 ```commandline
 missing optional dependency 'fsspec'...
 ```
 
-- 빌드 시 `hidden-import`를 해줌으로써 해결 가능
+- 빌드 시 `hidden-import` 설정으로 해결
 
 ```commandline
 $ pyinstaller --hidden-import fsspec -w --icon=images/icon.ico crawler.py
 ```
-
