@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2abd7180-9137-480c-a6c0-7abfa75ad226" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/python-g2b-crawler.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/crwaler.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python-g2b-crawler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-g2b-crawler.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/json/search_keywords.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/search_keywords.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ui/mainWidget.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/mainWidget.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ui/subWidget.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/subWidget.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
